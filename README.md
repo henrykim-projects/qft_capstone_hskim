@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The IT Management Capstone involves 
+The IT Management Capstone involves creating a business plan for a hypothetical start-up company. The plan is comprehensive, including industry history, SWOT analysis, market strategy, implementation strategy, and financial reports. I created a San Jose-based cybersecurity company, Aegis Security Consulting, that offered fundamental vulnerability assessments. The target market were clients in the health and education fields, which were designated as particularly vulnerable industries according to research. 
 <br />
 
 
@@ -14,7 +14,7 @@ The IT Management Capstone involves
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
-- <b>Server 2019</b>
+- <b>Server 2019</b>jh
 
 <h2>Program walk-through:</h2>
 
