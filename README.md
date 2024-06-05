@@ -13,8 +13,8 @@ Aegis Security Consulting - Table of Contents: <br/>
 <img src="https://github.com/thethirdbirthday/qft_capstone_hskim/blob/a939d04f5b09a3cfa3239b21f96707d63ed07cb1/images/qft_table.PNG" height="80%" width="80%" alt="Capstone Walk Through"/>
 <br />
 <br />
-"Company Mission - ASC help clients cultivate a culture of security and preserve the CIA triad of confidentiality, integrity, and availability by protecting their data with essential security services.":  <br/>
-<img src="https://github.com/thethirdbirthday/qft_capstone_hskim/blob/ec0a3544192aeedb96f904aafd3703f59abfc13d/images/qft_executivesummary.PNG" height="80%" width="80%" alt="Capstone Walk Through"/>
+Executive Summary and Company Summary:  <br/>
+<img src="https://github.com/thethirdbirthday/qft_capstone_hskim/blob/b1ec55e8a77a71752624dea3b123c3e4acc06dc8/images/qft_companysummary.PNG" height="80%" width="80%" alt="Capstone Walk Through"/>
 <br />
 <br />
 Add roles - Domain Services: <br/>
