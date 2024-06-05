@@ -9,7 +9,7 @@ The IT Management Capstone involves creating a business plan for a hypothetical 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Table of Contents: <br/>
+Aegis Security Consulting - Table of Contents: <br/>
 <img src="https://github.com/thethirdbirthday/qft_capstone_hskim/blob/a939d04f5b09a3cfa3239b21f96707d63ed07cb1/images/qft_table.PNG" height="80%" width="80%" alt="Capstone Walk Through"/>
 <br />
 <br />
