@@ -29,10 +29,6 @@ Implementation Strategy:  <br/>
 <img src="https://github.com/thethirdbirthday/qft_capstone_hskim/blob/0806f255fb36df0dc5243dbeb255de1509dbcd0e/images/qft_implementationstrategy.PNG" height="80%" width="80%" alt="Capstone Walk Through"/>
 <br />
 <br />
-Connect second Client VM solely to internal network:  <br/>
-<img src="https://github.com/thethirdbirthday/Active-Directory/blob/2f651b816539a522e124434c158652ce7092b1a6/ad_46.PNG" height="80%" width="80%" alt="Capstone Walk Through"/>
-<br />
-<br />
 <h2>References :</h2>
 
 Statista. (n.d.). Cybersecurity - Worldwide | Statista market forecast. https://www.statista.com/outlook/tmo/cybersecurity/worldwide#:~:text=Revenue%20in%20the%20Cybersecurity%20market,US%24273.60bn%20by%202028.
